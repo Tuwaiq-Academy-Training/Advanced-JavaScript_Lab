@@ -34,7 +34,9 @@ const text = 'Lorem ipsum dolor sit, amet consectetur adipisicing elit, Eveniet 
 ```
 - بستخدام `get Element` قم بغير قيمة `name` الى اسمك :
 ```js
-<h1 id="name">Your name here</h1>
+<p id="name">Your name here</p>
 ```
 - اضف `Events` على قيمة `name` عند الضغط عليها تقوم بعرض تنبيه يعرض الاسم .
+#API
+- 
 
